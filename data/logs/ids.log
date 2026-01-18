@@ -1,0 +1,8 @@
+2026-01-18 05:55:54 | INFO | hybrid_ids | DB initialized. Inserting a test alert...
+2026-01-18 05:55:54 | INFO | hybrid_ids | Latest alerts: [{'id': 1, 'time': '2026-01-18T00:25:54.910427+00:00', 'alert_type': 'TEST_ALERT', 'severity': 'LOW', 'confidence': 0.2, 'src_ip': None, 'dst_ip': None, 'evidence_json': '{"reason": "sanity check", "module": "bootstrap"}'}]
+2026-01-18 06:01:42 | INFO | hybrid_ids | DB initialized.
+2026-01-18 06:01:42 | INFO | hybrid_ids | No --pcap provided. Done (DB + logging check).
+2026-01-18 06:04:46 | INFO | hybrid_ids | DB initialized.
+2026-01-18 06:04:46 | INFO | hybrid_ids | No --pcap provided. Done (DB + logging check).
+2026-01-18 06:06:54 | INFO | hybrid_ids | DB initialized.
+2026-01-18 06:06:54 | INFO | hybrid_ids | No --pcap provided. Done (DB + logging check).

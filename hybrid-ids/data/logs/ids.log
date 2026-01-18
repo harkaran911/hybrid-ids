@@ -1,0 +1,24 @@
+2026-01-18 06:08:11 | INFO | hybrid_ids | DB initialized.
+2026-01-18 06:08:12 | INFO | hybrid_ids | No --pcap provided. Done (DB + logging check).
+2026-01-18 06:13:20 | INFO | hybrid_ids | DB initialized.
+2026-01-18 06:13:20 | INFO | hybrid_ids | No --pcap provided. Done (DB + logging check).
+2026-01-18 06:15:21 | INFO | hybrid_ids | DB initialized.
+2026-01-18 06:15:21 | INFO | hybrid_ids | No --pcap provided. Done (DB + logging check).
+2026-01-18 06:17:28 | INFO | hybrid_ids | DB initialized.
+2026-01-18 06:17:28 | INFO | hybrid_ids | Reading PCAP: data/pcap/sample.pcap
+2026-01-18 06:17:42 | INFO | hybrid_ids | DB initialized.
+2026-01-18 06:17:42 | INFO | hybrid_ids | Reading PCAP: e:\IDS project\hybrid-ids\logs\pcap\sample.pcap
+2026-01-18 06:18:15 | INFO | hybrid_ids | DB initialized.
+2026-01-18 06:18:15 | INFO | hybrid_ids | Reading PCAP: e:\IDS project\hybrid-ids\data\logs\pcap\sample.pcap
+2026-01-18 06:18:32 | INFO | hybrid_ids | DB initialized.
+2026-01-18 06:18:32 | INFO | hybrid_ids | Reading PCAP: e:\IDS project\hybrid-ids\data\db\logs\pcap\sample.pcap
+2026-01-18 06:18:34 | INFO | hybrid_ids | Parsed events: 0
+2026-01-18 06:18:34 | INFO | hybrid_ids | Built flows: 0 (window=10s)
+2026-01-18 06:18:34 | INFO | hybrid_ids | Stored flows in DB: 0
+2026-01-18 06:18:34 | INFO | hybrid_ids | Next: rules-based detector will read flows and emit alerts.
+2026-01-18 06:18:34 | INFO | hybrid_ids | Running rules-based detection...
+2026-01-18 06:18:34 | INFO | hybrid_ids | Rules detection complete.
+2026-01-18 06:18:34 | INFO | hybrid_ids | Running anomaly-based detection...
+2026-01-18 06:18:34 | INFO | hybrid_ids | Anomaly detection complete.
+2026-01-18 06:26:02 | INFO | hybrid_ids | DB initialized.
+2026-01-18 06:26:03 | INFO | hybrid_ids | No --pcap provided. Done (DB + logging check).
